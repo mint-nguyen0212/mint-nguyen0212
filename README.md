@@ -48,7 +48,7 @@ I'm interested in building intelligent systems and exploring the intersection of
 
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&amp;theme=dark" alt="PyTorch, TensorFlow, and scikit-learn" />
-  <img src="https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-0D1117?style=for-the-badge" alt="Hugging Face" />
+  <img src="[https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-0D1117?style=for-the-badge](https://us.aws.cdn.hf.co/xet-bridge-us/63d3eec885118edc0439bd98/b5b6c9df87c8c406e1f861d53537050e7f0ed7aaee4f7768fe9087ee7db54992?response-content-type=image%2Fsvg%2Bxml&X-Xet-Cas-Uid=public&user_id=public&response-content-disposition=inline%3B+filename*%3DUTF-8%27%27hf-logo.svg%3B+filename%3D%22hf-logo.svg%22%3B&xip=QUzx8QEMmPI&Expires=1791520520&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly91cy5hd3MuY2RuLmhmLmNvL3hldC1icmlkZ2UtdXMvNjNkM2VlYzg4NTExOGVkYzA0MzliZDk4L2I1YjZjOWRmODdjOGM0MDZlMWY4NjFkNTM1MzcwNTBlN2YwZWQ3YWFlZTRmNzc2OGZlOTA4N2VlN2RiNTQ5OTJcXD9yZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZzdmclMkJ4bWwmWC1YZXQtQ2FzLVVpZD1wdWJsaWMmdXNlcl9pZD1wdWJsaWMmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1pbmxpbmUlM0IrZmlsZW5hbWUlMkElM0RVVEYtOCUyNyUyN2hmLWxvZ28uc3ZnJTNCK2ZpbGVuYW1lJTNEJTIyaGYtbG9nby5zdmclMjIlM0ImeGlwPVFVeng4UUVNbVBJIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFcG9jaFRpbWUiOjE3OTE1MjA1MjB9fX1dfQ__&Signature=MEUCIQDY41BRKndTg8E4de60JoBZEfBhE6zNp%7EyTrZvKk9dgegIgUqgh5NwlST4LmVU-waKENBLbao1ls2Z9dSb03Knb7gA_&Key-Pair-Id=01KXEF4KZ1B6FV465MAWR4M21F&Hash-Algorithm=SHA256)" alt="Hugging Face" />
 </p>
 
 ### Data &amp; Tools
