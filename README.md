@@ -50,7 +50,7 @@ I'm interested in building intelligent systems and exploring the intersection of
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&amp;theme=dark" alt="PyTorch, TensorFlow, and scikit-learn" />
 <img src="https://huggingface.co/front/assets/huggingface_logo.svg"
      alt="Hugging Face" title="Hugging Face"
-     width="48" height="48" />
+     height="48" />
 
 ### Data &amp; Tools
 
