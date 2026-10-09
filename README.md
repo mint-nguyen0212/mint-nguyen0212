@@ -1,16 +1,128 @@
-## Hi there 👋
+<!-- Profile repository: mint-nguyen0212/mint-nguyen0212 -->
 
-<!--
-**mint-nguyen0212/mint-nguyen0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<sub>WELCOME TO MY DIGITAL SPACE</sub>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hey there, I'm Thang (Mint)! 👋
+
+**Aspiring AI Engineer | IT Student @ UIT | Indie Designer**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=2800&amp;pause=1200&amp;color=64FFDA&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=55&amp;lines=Aspiring+AI+Engineer;Exploring+Machine+Learning+%26+RAG;Indie+Designer;Always+Learning+Something+New" alt="Aspiring AI Engineer, exploring Machine Learning and RAG, indie designer, always learning something new" width="600" />
+
+<p>
+  <a href="https://www.linkedin.com/in/thangnguyenminh"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=64FFDA" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/mthangnguyen0212"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&amp;logo=facebook&amp;logoColor=64FFDA" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/mint.nguyen__"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&amp;logo=instagram&amp;logoColor=64FFDA" alt="Instagram" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=mint-nguyen0212&amp;label=PROFILE+VIEWS&amp;color=64ffda&amp;style=flat" alt="Profile view counter" />
+
+<br /><br />
+<em>AI Engineering × Creative Design</em>
+
+</div>
+
+---
+
+## 🌱 01 · About Me
+
+I'm **Thang Nguyen Minh**, an Information Technology student at the **University of Information Technology, VNU-HCM (UIT)**, working toward a career in **AI Engineering**.
+
+I'm interested in building intelligent systems and exploring the intersection of technology and creativity — from information retrieval and deep learning to graphic design.
+
+- 🔎 Exploring **legal information retrieval, question answering, and RAG**.
+- 🧠 Learning how to turn **machine learning ideas into practical systems**.
+- 🎨 Bringing a designer's perspective to the things I build.
+
+## 🛠️ 02 · Tech Arsenal
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp&amp;theme=dark" alt="Python and C++" />
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&amp;labelColor=0D1117" alt="SQL" />
+</p>
+
+### AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&amp;theme=dark" alt="PyTorch, TensorFlow, and scikit-learn" />
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-0D1117?style=for-the-badge" alt="Hugging Face" />
+</p>
+
+### Data &amp; Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=docker,git&amp;theme=dark" alt="Docker and Git" />
+</p>
+
+### Creative
+
+<img src="https://skillicons.dev/icons?i=figma,ai&amp;theme=dark" alt="Figma and Adobe Illustrator" />
+
+## 🚀 03 · Featured Projects
+
+<!-- Add repository links to the project titles when ready. -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚖️ LegalIR / LegalQA</h3>
+      <p>Legal information retrieval and question answering, exploring hybrid retrieval and reranking.</p>
+      <p><sub>Information Retrieval · NLP · RAG</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ Android Malware Detection</h3>
+      <p>Exploring deep learning approaches for detecting Android malware.</p>
+      <p><sub>Deep Learning · Security · Classification</sub></p>
+    </td>
+  </tr>
+</table>
+
+## 📊 04 · GitHub Analytics
+
+<!-- Public widgets: availability depends on their external services. -->
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=mint-nguyen0212&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=64FFDA&amp;icon_color=64FFDA&amp;text_color=C9D1D9&amp;hide_rank=true" alt="Thang's GitHub statistics" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mint-nguyen0212&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=64FFDA&amp;text_color=C9D1D9" alt="Most used languages in public repositories" height="170" />
+</p>
+
+<details>
+  <summary>🏆 GitHub Trophies</summary>
+  <br />
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=mint-nguyen0212&amp;theme=matrix&amp;no-frame=true&amp;no-bg=true&amp;column=4&amp;row=1&amp;margin-w=10" alt="GitHub activity trophies" />
+  </p>
+</details>
+
+### 🐍 A Little Mint in My Contributions
+
+<!-- Generated by .github/workflows/snake.yml and published to the output branch. -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mint-nguyen0212/mint-nguyen0212/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mint-nguyen0212/mint-nguyen0212/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/mint-nguyen0212/mint-nguyen0212/output/github-contribution-grid-snake-dark.svg" alt="Animated snake eating Thang's GitHub contributions" width="100%" />
+  </picture>
+</p>
+
+## ✨ 05 · Achievements &amp; Beyond Code
+
+- 🏆 **Top 55 — LegalIR, UIT Data Science Challenge 2026**.
+- 📚 **Currently learning:** Machine Learning, Deep Learning, RAG, and AI Engineering.
+- 🎨 **Independent Graphic Designer** — creativity is part of my toolkit.
+- 📷 **Nature Photography Enthusiast** — capturing the little details beyond the screen.
+
+---
+
+<div align="center">
+
+**Let's connect &amp; build something meaningful.**
+
+[LinkedIn](https://www.linkedin.com/in/thangnguyenminh) · [Facebook](https://www.facebook.com/mthangnguyen0212) · [Instagram](https://www.instagram.com/mint.nguyen__)
+
+<sub>Made with curiosity, creativity, and a little bit of mint 🌱</sub>
+
+</div>
